@@ -14,4 +14,4 @@ Really easy, you open up the app, add a file from the top right + icon.
 
 Nice huh? You can even download some more skins for the player :3
 [![](/assets/images/9.png)](https://delta-skins.github.io/nds.html)
-!()[https://delta-skins.github.io/nds.html]
+![[https://delta-skins.github.io/nds.html]]
