@@ -55,6 +55,10 @@ Evolutions remain mostly unchanged, with the exceptions of evolutions involving 
 ## Things Unchanged
 Items, Moves, and TMs are all the same as usual!
 
+If you want to read more about the randomizer and how it works, the link is here!
+<https://upr-fvx.github.io/universal-pokemon-randomizer-fvx/>
+
+
 
 The following is some of the raw text logs from the randomization settings:
 ```
