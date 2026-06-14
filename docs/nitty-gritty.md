@@ -13,11 +13,11 @@ Evolutions remain mostly unchanged, with the exceptions of evolutions involving 
 | Pokemon    | Evolution  | Old Method            | New Method                   |
 | ---------- | ---------- | --------------------- | ---------------------------- |
 | Poliwhirl  | Politoed   | Trade w/ King’s Rock  | Level w/ King’s Rock         |
-| Kadabra    | Alakazam   | Trade                 | Level 37\*                   |
-| Graveler   | Golem      | Trade                 | Level 37\*                   |
-| Machoke    | Machamp    | Trade                 | Level 37\*                   |
+| Kadabra    | Alakazam   | Trade                 | Level 37                     |
+| Graveler   | Golem      | Trade                 | Level 37                     |
+| Machoke    | Machamp    | Trade                 | Level 37                     |
 | Slowpoke   | Slowking   | Trade w/ King’s Rock  | Water Stone                  |
-| Haunter    | Gengar     | Trade                 | Level 37\*                   |
+| Haunter    | Gengar     | Trade                 | Level 37                     |
 | Onix       | Steelix    | Trade w/ Metal Coat   | Level w/ Metal Coat          |
 | Rhydon     | Rhyperior  | Trade w/ Protector    | Level w/ Protector           |
 | Seadra     | Kingdra    | Trade w/ Dragon Scale | Level w/ Dragon Scale        |
@@ -30,8 +30,8 @@ Evolutions remain mostly unchanged, with the exceptions of evolutions involving 
 | Dusclops   | Dusknoir   | Trade w/ Reaper Cloth | Level w/ Reaper Cloth        |
 | Clamperl   | Huntail    | Trade w/ DeepSeaTooth | Level w/ DeepSeaTooth        |
 | Clamperl   | Gorebyss   | Trade w/ DeepSeaScale | Level w/ DeepSeaScale        |
-| Boldore    | Gigalith   | Trade                 | Level 37\*                   |
-| Gurdurr    | Conkeldurr | Trade                 | Level 37\*                   |
+| Boldore    | Gigalith   | Trade                 | Level 37                     |
+| Gurdurr    | Conkeldurr | Trade                 | Level 37                     |
 | Karrablast | Escavalier | Trade w/ Shelmet      | Level w/ Shelmet in Party    |
 | Shelmet    | Accelgor   | Trade w/ Karrablast   | Level w/ Karrablast in Party |
 |            |            |                       |                              |
