@@ -11,8 +11,8 @@ Available for iOS is Delta! You can find it here:
 
 Really easy, you open up the app, add a file from the top right + icon.
 <p float="left">
-  <img src="../assets/images/7.jpeg" width="100" />
-  <img src="../assets/images/8.jpeg" width="100" /> 
+  <img src="../assets/images/7.jpeg" width="30%" />
+  <img src="../assets/images/8.jpeg" width="30%" /> 
 </p>
 
 Nice huh? You can even download some more skins for the player :3
