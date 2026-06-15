@@ -12,3 +12,6 @@ nav_order: 7
 | daffodilfolk     | Black   | -          |
 | patorcer         | Black   | -          |
 | lou_nna          | Black   | -          |
+| jaystor          | White   | -          |
+| onionhorizon     | White   | -          |
+| alekivz          | Black   | -          |
