@@ -10,3 +10,5 @@ nav_order: 7
 | kuryree          | White   | -          |
 | bowsully         | White   | -          |
 | daffodilfolk     | Black   | -          |
+| patorcer         | Black   | -          |
+| lou_nna          | Black   | -          |
