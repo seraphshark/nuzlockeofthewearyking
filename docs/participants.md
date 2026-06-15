@@ -8,3 +8,5 @@ nav_order: 7
 | Chipchasterson   | White   | -          |
 | TriclopsRabbit   | Black   | -          |
 | kuryree          | White   | -          |
+| bowsully         | White   | -          |
+| daffodilfolk     | Black   | -          |
