@@ -16,3 +16,4 @@ nav_order: 7
 | onionhorizon     | White   | random-wht-5 |
 | alekivz          | Black   | random-blk-5 |
 | rinandtonic.     | Black   | random-blk-6 |
+| perryodactyl     | White   | random-wht-6 |
