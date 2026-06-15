@@ -15,3 +15,4 @@ nav_order: 7
 | jaystor          | White   | -          |
 | onionhorizon     | White   | -          |
 | alekivz          | Black   | -          |
+| rinandtonic.     | Black   | -          |
