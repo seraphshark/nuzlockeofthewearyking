@@ -19,7 +19,6 @@ nav_order: 1
    		<div class="twt-timestamp">{{ post.post_time }} · {{ post.post_date }}</div>
    	<hr class="twt-sep">
    <div class="twt-stat1"><strong>0</strong> Retweets &nbsp;&nbsp; <strong>0</strong> Quote Tweets &nbsp;&nbsp; <strong>0</strong> Likes </div>
-	   {% if reply == 'true' %}
 	   <hr class="twt-sep-reply">
 	  	<app-reply>
 		    <div class="twt-replybox">
@@ -36,7 +35,6 @@ nav_order: 1
 		            <span>{{ post.reply_text }}</span>
 		          </app-content>
 	        	</div>
-		{% endif %}
 	</div>
   {% endfor %}
 </html>
