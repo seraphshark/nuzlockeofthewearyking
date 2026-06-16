@@ -71,6 +71,7 @@
   border: 1px solid #c7c7c7;
   border-radius: 10px;
   margin-bottom: -1em;
+  max-height: 450px;
 }
 
 .twt-contentquote {
