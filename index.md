@@ -3,7 +3,7 @@ title: Home
 layout: home
 nav_order: 1
 ---
-
+<html>
 <ul>
   {% for post in site.posts %}
     <li>
@@ -11,3 +11,4 @@ nav_order: 1
     </li>
   {% endfor %}
 </ul>
+</html>
