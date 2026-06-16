@@ -18,3 +18,5 @@ nav_order: 7
 | rinandtonic.     | Black   | random-blk-6 |
 | perryodactyl     | White   | random-wht-6 |
 | theshinygulpin   | White   | random-wht-7 |
+| swerveguy        | White   | random-wht-8 |
+| beachw00f        | White   | random-wht-9 |
