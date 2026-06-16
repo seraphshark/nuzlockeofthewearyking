@@ -10,7 +10,7 @@ nav_order: 1
   {% assign author = site.authors[post.author] %}
     <div class="twt">
       <div class="twt-header">
-      	<div class="twt-icon-container"><img class="twt-icon" src="{{ author.icon }}"></div>
+      	<div class="twt-icon-container"><img class="twt-icon" src="{{ site.baseurl }}/icons/{{ author.icon }}"></div>
       	<div class="twt-id"><span class="twt-name">{{ author.name }} </span><br><span class="twt-handle">@{{ post.author }}</span></div>
    		</div>
    		<div class="twt-content">
