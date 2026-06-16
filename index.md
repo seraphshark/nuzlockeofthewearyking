@@ -9,8 +9,8 @@ nav_order: 1
   {% for post in site.posts %}
     <div class="twt">
       <div class="twt-header">
-      	<div class="twt-icon-container"><img class="twt-icon" src="{{ post.author.icon }}"></div>
-      	<div class="twt-id"><span class="twt-name">{{ post.author.name }} </span><br><span class="twt-handle">@{{ post.author }}</span></div>
+      	<div class="twt-icon-container"><img class="twt-icon" src="{{ page.author.icon }}"></div>
+      	<div class="twt-id"><span class="twt-name">{{ page.author.name }} </span><br><span class="twt-handle">@{{ post.author }}</span></div>
    		</div>
    		<div class="twt-content">
       	<app-content><span> {{ post.content }} </span></app-content>
