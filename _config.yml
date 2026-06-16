@@ -12,6 +12,6 @@ plugins:
   - jekyll-feed
 
 authors:
-  - ralts-lover-69:
-    icon: {{ site.baseurl }}/assets/images/posts/defaulticon.png
-    name: rhea
+  ralts-lover-69:
+    - icon: {{ site.baseurl }}/assets/images/posts/defaulticon.png
+    - name: rhea
