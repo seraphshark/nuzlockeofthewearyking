@@ -62,7 +62,7 @@
 
 .twt-content {
   font-size: 1.3em;
-  margin-bottom: -1em;
+  margin-bottom: 0;
 }
 
 .twt-content img {
@@ -70,7 +70,7 @@
   max-width: 100%;
   border: 1px solid #c7c7c7;
   border-radius: 10px;
-  margin-bottom: -1em;
+  margin-bottom: 0;
   max-height: 450px;
 }
 
