@@ -4,4 +4,10 @@ layout: home
 nav_order: 1
 ---
 
-See sidebar for links
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
