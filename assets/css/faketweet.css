@@ -65,6 +65,14 @@
   margin-bottom: -1em;
 }
 
+.twt-content img {
+  float: center;
+  max-width: 100%;
+  border: 1px solid #c7c7c7;
+  border-radius: 10px;
+  margin-bottom: -1em;
+}
+
 .twt-contentquote {
   margin-top: -1em;
   font-size: 1em;
