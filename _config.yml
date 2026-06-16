@@ -13,7 +13,7 @@ plugins:
 
 authors:
   ralts-lover-69:
-    icon: "{{ site.baseurl }}/assets/images/posts/defaulticon.png"
+    icon: "{{ site.baseurl }}/icons/defaulticon.png"
     name: "rhea🥺💕"
   jade-placeholder:
     icon: "{{ site.baseurl }}/assets/images/posts/defaulticon.png"
