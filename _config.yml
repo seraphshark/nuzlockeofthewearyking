@@ -13,5 +13,5 @@ plugins:
 
 authors:
   ralts-lover-69:
-    icon: "{{ site.baseurl }}/assets/images/posts/defaulticon.png"
+    icon: "../assets/images/posts/defaulticon.png"
     name: "rhea"

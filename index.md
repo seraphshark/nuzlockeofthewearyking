@@ -7,15 +7,16 @@ nav_order: 1
 <link href="{{ site.baseurl }}/assets/css/faketweet.css" rel="stylesheet">
 
   {% for post in site.posts %}
+  {% assign author = site.authors[post.author] %}
     <div class="twt">
       <div class="twt-header">
-      	<div class="twt-icon-container"><img class="twt-icon" src="{{ site.data.authors[author].icon }}"></div>
-      	<div class="twt-id"><span class="twt-name">{{ site.data.authors[author].name }} </span><br><span class="twt-handle">@{{ post.author }}</span></div>
+      	<div class="twt-icon-container"><img class="twt-icon" src="{{ author.icon }}"></div>
+      	<div class="twt-id"><span class="twt-name">{{ author.name }} </span><br><span class="twt-handle">@{{ post.author }}</span></div>
    		</div>
    		<div class="twt-content">
       	<app-content><span> {{ post.content }} </span></app-content>
    		</div>
-   		<div class="twt-timestamp">12:00 PM · Jan 1, 2024</div>
+   		<div class="twt-timestamp">{{ post.post_time }} · {{ post.post_date }}</div>
    	<hr class="twt-sep">
    <div class="twt-stat1"><strong>0</strong> Retweets &nbsp;&nbsp; <strong>0</strong> Quote Tweets &nbsp;&nbsp; <strong>0</strong> Likes </div>
 	</div>
