@@ -30,3 +30,19 @@ authors:
   sunflorafolk:
     icon: "{{ site.baseurl }}/assets/images/posts/defaulticon.png"
     name: "adrian"
+  nounpleasantry:
+    icon: "{{ site.baseurl }}/assets/images/posts/defaulticon.png"
+    name: "Noah"
+  ghostposting:
+    icon: "{{ site.baseurl }}/assets/images/posts/defaulticon.png"
+    name: "Boo"
+  assignedmetalhead:
+    icon: "{{ site.baseurl }}/assets/images/posts/defaulticon.png"
+    name: "Hikaru"
+  mpreglover1999:
+    icon: "{{ site.baseurl }}/assets/images/posts/defaulticon.png"
+    name: "mpreg lover"
+  ghetsisapologist:
+    icon: "{{ site.baseurl }}/assets/images/posts/defaulticon.png"
+    name: "zander"
+  
