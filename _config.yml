@@ -14,4 +14,19 @@ plugins:
 authors:
   ralts-lover-69:
     icon: "{{ site.baseurl }}/assets/images/posts/defaulticon.png"
-    name: "rhea"
+    name: "rhea🥺💕"
+  jade-placeholder:
+    icon: "{{ site.baseurl }}/assets/images/posts/defaulticon.png"
+    name: "this is jades placeholder"
+  biancasbestie:
+    icon: "{{ site.baseurl }}/assets/images/posts/defaulticon.png"
+    name: "touya"
+  dragonitefucker:
+    icon: "{{ site.baseurl }}/assets/images/posts/defaulticon.png"
+    name: "Onion"
+  louroxxx:
+    icon: "{{ site.baseurl }}/assets/images/posts/defaulticon.png"
+    name: "LOU!"
+  sunflorafolk:
+    icon: "{{ site.baseurl }}/assets/images/posts/defaulticon.png"
+    name: "adrian"
