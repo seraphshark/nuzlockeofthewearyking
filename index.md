@@ -7,7 +7,7 @@ nav_order: 1
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ site.posts.content }}
     </li>
   {% endfor %}
 </ul>
