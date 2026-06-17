@@ -16,6 +16,7 @@
     Ubuntu,
     'Helvetica Neue',
     sans-serif;
+    overflow: visible !important;
 }
 
 .twt-header {
