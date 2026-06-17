@@ -52,7 +52,15 @@ PLEASE ONLY USE THIS TO GET PAST CUT AREAS... Obviously doing other stuff would 
   <img src="../assets/images/IMG_0326.jpeg" width="30%" /> 
 </p>
 To put a cheat into Delta: open menu while game is open, click Cheat Codes. Copy and paste the following string of numbers and letters into a new cheat. Save and enable.
+To actually use it in game, you must press the L trigger and A at the same time to toggle it on. To toggle it off, press L + B.
 
+### MelonDS:
+<p float="left">
+  <img src="../assets/images/Screenshot_20260617-094950.png" width="30%" /> 
+  <img src="../assets/images/Screenshot_20260617-095027.png" width="30%" /> 
+</p>
+On MelonDS, you'll open the menu while the game is open (by pressing the back button), make a new folder and upload the following text to a new cheat, save and enable it.
+To actually use it in game, you must press the L trigger and A at the same time to toggle it on. To toggle it off, press L + B.
 
 Pokemon Black/White Walk Through Walls
 ```
