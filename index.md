@@ -26,11 +26,11 @@ nav_order: 1
         </div>
        <div class="twt-replycontainer">
        	<span class="twt-name">{{ post.reply_author }}</span>
-       	<span class="twt-handle">@{{ post.reply_handle  }} · Jan 2, 2024 </span>
+       	<span class="twt-handle">@{{ post.reply_handle }} · Jan 2, 2024 </span>
        	<span class="twt-handle">Replying to</span>
        	<span class="twt-hl"> @{{ post.author }}</span>
        	<div class="twt-replycontent">
-        	<span>{{ reply_text }}</span>
+        	<span>{{ post.reply_text }}</span>
        	</div>
        	<div class="twt-stat2">
         	<div class="twt-social"><img src="https://i.imgur.com/dJg9v1v.png" class="twt-socialimg">0 </div>
