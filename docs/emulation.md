@@ -40,8 +40,7 @@ I don't think you can change the skin of the melonDS control layout, there may b
 
 If you experience any problems let me know I'll help you figure it out!
 
-## Walk Through Walls Cheat
-<a="cheat">
+<h2 id = "cheat"> Walk Through Walls Cheat</h2>
 Unfortunately its possible to get stuck by not having any pokemon available that can learn the cut HM. In newer files I've made HMs compatible with all pokemon- but if you don't want to start over with a new file you can enable this cheat in your emulator.
 
 PLEASE ONLY USE THIS TO GET PAST CUT AREAS... Obviously doing other stuff would be against the rules but more importantly you can get stuck, lol.
