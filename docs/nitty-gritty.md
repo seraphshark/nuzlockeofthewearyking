@@ -7,6 +7,10 @@ nav_order: 5
 
 If you're interested in exactly what will be changed, I'll write it allllll out here.
 
+## New Changes (06/16/2026)
+- Starters, which have been randomized to any base pokemon with 2 evolutions, now have a MINIMUM base stat total of 307.
+- ANY pokemon can learn ANY HM move, to prevent getting stuck.
+
 ## Evolutions
 Evolutions remain mostly unchanged, with the exceptions of evolutions involving trading pokemon. Every pokemon that evolves by trade has been changed to a different method, written below. (this is specifically for black/white/2)
 
