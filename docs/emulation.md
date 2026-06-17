@@ -49,7 +49,7 @@ PLEASE ONLY USE THIS TO GET PAST CUT AREAS... Obviously doing other stuff would 
 <p float="left">
   <img src="../assets/images/IMG_0324.jpeg" width="30%" />
   <img src="../assets/images/IMG_0325.png" width="30%" /> 
-  <img src="../assets/images/IMG_0326.png" width="30%" /> 
+  <img src="../assets/images/IMG_0326.jpeg" width="30%" /> 
 </p>
 To put a cheat into Delta: open menu while game is open, click Cheat Codes. Copy and paste the following string of numbers and letters into a new cheat. Save and enable.
 
