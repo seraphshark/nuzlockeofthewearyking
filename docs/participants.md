@@ -10,7 +10,7 @@ nav_order: 7
 | kuryree          | White   | random-wht-2 |
 | bowsully         | White   | ~~random-wht-3~~ random-blk-11 |
 | daffodilfolk     | Black   | random-blk-2 |
-| patorcer         | Black   | random-blk-3 |
+| patorcer         | Black   | ~~random-blk-3~~ random-blk-2-1 | 
 | lou_nna          | Black   | random-blk-4 |
 | jaystor          | White   | random-wht-4 |
 | onionhorizon     | White   | ~~random-wht-5~~ random-wht-11 |
