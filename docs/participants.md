@@ -12,7 +12,7 @@ nav_order: 7
 | daffodilfolk     | Black   | random-blk-2 |
 | patorcer         | Black   | ~~random-blk-3~~ random-blk-2-1 | 
 | lou_nna          | Black   | random-blk-4 |
-| jaystor          | White   | random-wht-4 |
+| jaystor          | White   | ~~random-wht-4~~ random-wht-2-1 |
 | onionhorizon     | White   | ~~random-wht-5~~ random-wht-11 |
 | alekivz          | Black   | ~~random-blk-5~~ random-blk-7 |
 | rinandtonic.     | Black   | ~~random-blk-6~~ random-blk-8 |
