@@ -7,6 +7,8 @@ nav_order: 5
 
 If you're interested in exactly what will be changed, I'll write it allllll out here.
 
+IF you're so inclined, you can download the randomizer yourself and use our pre-determined settings to whip up your own file. The link to our little settings file is here: <https://drive.google.com/file/d/1H5YqdxBCo_9zbN5_NhBYeyu_81K-SutS/view?usp=drive_link>
+
 ## New Changes (06/16/2026)
 - Starters, which have been randomized to any base pokemon with 2 evolutions, now have a MINIMUM base stat total of 307.
 - ANY pokemon can learn ANY HM move, to prevent getting stuck.
